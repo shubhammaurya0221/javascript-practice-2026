@@ -1,0 +1,25 @@
+BASIC CONSOLE USAGE
+1. log your name and fav hobby to the console.
+2. Perform and log the result of 45 * 2 - 10 
+3. Use console log to display the year.
+4. Create 2 Variables for first and last name. concatinate and log them.
+5. Track the value of variable by logging it before and after updating.
+6. Use console.error to simulate the error message.
+7. Log square of number 12 to the console. 
+8. Print the type of a Variable holding the value true.
+9. create a variable to holding an age and log wheather its grater than 18.
+10. Log the result of 100 / 0 and observe the output.
+
+VARIABLES AND DATA TYPES
+11. Declare a variable using let and log it value
+12. Create a constant store the value of PI
+13. Re-assign a value to variable Declare with let and log the result
+14. Check the type of null and log it.
+15. Create a variable with a number as a string (eg: "25") and log it
+16. Use type of to check type of Boolean variable
+17. Create 3 variables of string, number, boolean and log thier values
+18. Declare a variable without assignging a value and log it.
+19. Create a variable with undefined and log its type.
+20. Use const to create a array. try re assigning the array and observe the error
+
+time stamp : 19:55

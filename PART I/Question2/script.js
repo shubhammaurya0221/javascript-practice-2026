@@ -1,0 +1,1 @@
+console.log("THE result is : ", 45 * 2 - 10);
