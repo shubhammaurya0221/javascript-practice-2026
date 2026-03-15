@@ -1,4 +1,4 @@
-BASIC CONSOLE USAGE
+1. BASIC CONSOLE USAGE
 1. log your name and fav hobby to the console.
 2. Perform and log the result of 45 * 2 - 10 
 3. Use console log to display the year.
@@ -10,7 +10,7 @@ BASIC CONSOLE USAGE
 9. create a variable to holding an age and log wheather its grater than 18.
 10. Log the result of 100 / 0 and observe the output.
 
-VARIABLES AND DATA TYPES
+2. VARIABLES AND DATA TYPES
 11. Declare a variable using let and log it value
 12. Create a constant store the value of PI
 13. Re-assign a value to variable Declare with let and log the result
@@ -47,5 +47,17 @@ time stamp : 19:55
 38. Combine 2 arrays [1,2] and [3,4] using .concat()
 39. Sort array [1,4,8,2,5] in asending order
 40. Write a Program that create an copy of an array without mutating the original
+
+5.Function
+41. Write a function to check number is even or odd
+42. Create a function to calculate the area of circle with a given radius
+43. Write a function that accepts an array and return sun of its elements
+44. Create a function that check if string start with  specific acharacter 
+45. Write a function to find maximum of 2 number
+46. Create a function that takes a number and give factorial of that number
+47. Write a function that accepts a string and return its reverse
+48. Create a function to find a largest number from an array
+49. Write a function that convert a string in kebab-case 
+50. reate a function to print "Hello World" everytime
 
 
