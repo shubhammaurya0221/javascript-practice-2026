@@ -34,4 +34,18 @@ time stamp : 19:55
 27. Write a nested loop to print a grid of 3x3
 28. Use a for loop to reverse an array [1,2,3,4]
 29. Write a while loop that loogs number from 1 to 100 that divisble by 5
-30. 
+30. Use a for...in loop to iterate over an object and log its key.
+
+4. Array
+31. Create an array of your top 5 favorite movies and log it.
+32. Find and log the second element of an array.
+33. Add 2 new elements to the start of an array using .unshift()
+34. Remove the last element of an array and log the updated array
+35. Use .slice() to extract the first 3 elements of an array.
+36. Find the index of specific element in an array
+37. Check if value exist in an array using .includes()
+38. Combine 2 arrays [1,2] and [3,4] using .concat()
+39. Sort array [1,4,8,2,5] in asending order
+40. Write a Program that create an copy of an array without mutating the original
+
+
