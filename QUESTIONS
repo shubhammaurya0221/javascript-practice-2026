@@ -23,3 +23,15 @@ VARIABLES AND DATA TYPES
 20. Use const to create a array. try re assigning the array and observe the error
 
 time stamp : 19:55
+
+3. For loop
+21. Write a for loop to print a number from 1 to 50
+22. Use while loop to sum a number from 1 to 10
+23. Create a for...of loop to print a each character of string 'JAVASCRIPT'
+24. Write a for loop that skips even number from 1 to 20.
+25. Use do while loop to print a number from 5 to 1.
+26. Create a for loop that calculate factorial of 5
+27. Write a nested loop to print a grid of 3x3
+28. Use a for loop to reverse an array [1,2,3,4]
+29. Write a while loop that loogs number from 1 to 100 that divisble by 5
+30. 

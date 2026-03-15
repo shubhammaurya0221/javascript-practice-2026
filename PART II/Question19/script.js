@@ -2,3 +2,4 @@
 
 let siru;
 console.log(typeof siru); // type of undefine variable is 'undefine'
+
